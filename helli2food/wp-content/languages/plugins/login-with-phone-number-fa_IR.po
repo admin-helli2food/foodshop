@@ -1,0 +1,602 @@
+# Translation of Plugins - Login with phone number - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Login with phone number - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-13 13:01:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Login with phone number - Stable (latest release)\n"
+
+#: login-with-phonenumber.php:2391 login-with-phonenumber.php:2440
+msgid "Change phone number?"
+msgstr "عوض کردن شماره موبایل؟"
+
+#: login-with-phonenumber.php:1414
+msgid "enable localization"
+msgstr "متن ها / محلی سازی"
+
+#: login-with-phonenumber.php:1129
+msgid "Localization settings"
+msgstr "تنظیمات محلی سازی"
+
+#: login-with-phonenumber.php:303
+msgid "Text & localization"
+msgstr "متن و محلی سازی"
+
+#: login-with-phonenumber.php:280
+msgid "Enable localization"
+msgstr "فعال سازی محلی سازی"
+
+#: login-with-phonenumber.php:270 login-with-phonenumber.php:1835
+msgid "Timer count"
+msgstr "مقدار شمارنده"
+
+#: login-with-phonenumber.php:269
+msgid "Enable timer"
+msgstr "فعال سازی شمارنده"
+
+#: login-with-phonenumber.php:1823
+msgid "I want to enable timer after user entered phone number and clicked on submit"
+msgstr "میخواهم شمارنده را فعال کنم پس از اینکه کاربر روی دکمه ثبت کلیک کرد"
+
+#: login-with-phonenumber.php:2385
+msgid "Send code again"
+msgstr "ارسال دوباره کد"
+
+#: login-with-phonenumber.php:79
+msgid "Personal Information"
+msgstr "اطلاعات شخصی"
+
+#: login-with-phonenumber.php:2517 login-with-phonenumber.php:2530
+#: login-with-phonenumber.php:2782
+msgid "users can not register!"
+msgstr "کاربران نمی توانند ثبت نام کنند!"
+
+#: login-with-phonenumber.php:1406
+msgid "20px"
+msgstr "20px"
+
+#: login-with-phonenumber.php:1378
+msgid "13px"
+msgstr "13px"
+
+#: login-with-phonenumber.php:1235 login-with-phonenumber.php:1245
+#: login-with-phonenumber.php:1286 login-with-phonenumber.php:1295
+#: login-with-phonenumber.php:1333 login-with-phonenumber.php:1343
+msgid "0px 0px 0px 0px"
+msgstr "0px 0px 0px 0px"
+
+#: login-with-phonenumber.php:174
+msgid "Box"
+msgstr "جعبه"
+
+#: login-with-phonenumber.php:153 login-with-phonenumber.php:1255
+msgid "button text color"
+msgstr "رنگ متن دکمه"
+
+#: login-with-phonenumber.php:158 login-with-phonenumber.php:1266
+msgid "secondary button background color"
+msgstr "رنگ پس‌زمینه‌ی دکمه دوم"
+
+#: login-with-phonenumber.php:1504
+msgid "I want online support be active"
+msgstr "میخواهم پشتیبانی آنلاین را فعال کنم "
+
+#: login-with-phonenumber.php:1202
+msgid "enable custom styles"
+msgstr "فعالسازی استایل سفارشی "
+
+#: login-with-phonenumber.php:302 login-with-phonenumber.php:1088
+msgid "Style settings"
+msgstr "تنظیمات استایل "
+
+#: login-with-phonenumber.php:302
+msgid "Style Settings"
+msgstr "تنظیمات استایل "
+
+#: login-with-phonenumber.php:277
+msgid "Enable online support"
+msgstr "فعالسازی پشتیبانی آنلاین "
+
+#: login-with-phonenumber.php:186
+msgid "title font size"
+msgstr "اندازه فونت عنوان "
+
+#: login-with-phonenumber.php:185
+msgid "title color"
+msgstr "رنگ عنوان "
+
+#: login-with-phonenumber.php:184
+msgid "Titles"
+msgstr "عنوان "
+
+#: login-with-phonenumber.php:181
+msgid "label font size"
+msgstr "اندازه فونت برچسب"
+
+#: login-with-phonenumber.php:160
+msgid "secondary button border radius"
+msgstr "border radius دکمه دوم"
+
+#: login-with-phonenumber.php:159 login-with-phonenumber.php:1276
+msgid "secondary button border color"
+msgstr "رنگ حاشیه دکمه دوم"
+
+#: login-with-phonenumber.php:165
+msgid "Inputs"
+msgstr "فیلد ها"
+
+#: login-with-phonenumber.php:167 login-with-phonenumber.php:1314
+msgid "input background color"
+msgstr "رنگ پس زمینه فیلد "
+
+#: login-with-phonenumber.php:172 login-with-phonenumber.php:1359
+msgid "input placeholder color"
+msgstr "رنگ متن پیش فرض فیلد ها"
+
+#: login-with-phonenumber.php:179
+msgid "Labels"
+msgstr "عنوان فیلد ها"
+
+#: login-with-phonenumber.php:180 login-with-phonenumber.php:1388
+#: login-with-phonenumber.php:1397
+msgid "label text color"
+msgstr "رنگ متن عنوان فیلد ها"
+
+#: login-with-phonenumber.php:171 login-with-phonenumber.php:1351
+msgid "input text color"
+msgstr "رنگ متن فیلد ها "
+
+#: login-with-phonenumber.php:170
+msgid "input border width"
+msgstr "عرض حاشیه فیلد ها "
+
+#: login-with-phonenumber.php:169
+msgid "input border radius"
+msgstr "انحنای حاشیه فیلد ها"
+
+#: login-with-phonenumber.php:168 login-with-phonenumber.php:1324
+msgid "input border color"
+msgstr "رنگ حاشیه فیلد ها"
+
+#: login-with-phonenumber.php:175 login-with-phonenumber.php:1368
+msgid "box background color"
+msgstr "رنگ پس زمینه جعبه "
+
+#: login-with-phonenumber.php:162 login-with-phonenumber.php:1304
+msgid "secondary button text color"
+msgstr "رنگ متن دکمه دوم "
+
+#: login-with-phonenumber.php:161
+msgid "secondary button border width"
+msgstr "عرض کادر دکمه دوم "
+
+#: login-with-phonenumber.php:156
+msgid "Secondary button"
+msgstr "دکمه دوم"
+
+#: login-with-phonenumber.php:152
+msgid "button border width"
+msgstr "ضخامت حاشیه دکمه"
+
+#: login-with-phonenumber.php:151
+msgid "button border radius"
+msgstr "میزان انحنای حاشیه دکمه"
+
+#: login-with-phonenumber.php:150 login-with-phonenumber.php:1225
+msgid "button border color"
+msgstr "رنگ حاشیه دکمه"
+
+#: login-with-phonenumber.php:149 login-with-phonenumber.php:1215
+msgid "button background color"
+msgstr "رنگ پس زمینه دکمه"
+
+#: login-with-phonenumber.php:148
+msgid "Primary button"
+msgstr "دکمه اول"
+
+#: login-with-phonenumber.php:144
+msgid "Enable custom styles"
+msgstr "فعال سازی استایل سفارشی"
+
+#: login-with-phonenumber.php:228
+msgid "Firebase config"
+msgstr "پیکربندی فایربیس"
+
+#: login-with-phonenumber.php:227
+msgid "Firebase api"
+msgstr "api فایربیس"
+
+#: login-with-phonenumber.php:1642
+msgid "enter Firebase api"
+msgstr "api فایربیس را وارد کنید "
+
+#: login-with-phonenumber.php:1653
+msgid "enter Firebase config"
+msgstr "تنظیمات و کانفیگ فایربیس را وارد کنید"
+
+#: login-with-phonenumber.php:1642
+msgid "Firebase config help - documentation"
+msgstr "راهنما برای تنظیم و پیکربندی فایربیس - داکیومنتیشن"
+
+#: login-with-phonenumber.php:1514
+msgid "I want to use custom gateways"
+msgstr "من میخواهم از درگاه های سفارشی استفاده کنم"
+
+#: gateways/class-lwp-infobip-api.php:82 gateways/class-lwp-mshastra-api.php:78
+#: gateways/class-lwp-raygansms-api.php:85
+#: gateways/class-lwp-smsbharti-api.php:86
+#: gateways/class-lwp-taqnyat-api.php:80 gateways/class-lwp-twilio-api.php:87
+#: gateways/class-lwp-twilio-api.php:149 gateways/class-lwp-zenziva-api.php:81
+msgid "Phone number is invalid"
+msgstr "شماره موبایل نامعتبر می باشد"
+
+#: gateways/class-lwp-infobip-api.php:85 gateways/class-lwp-mshastra-api.php:81
+#: gateways/class-lwp-raygansms-api.php:88
+#: gateways/class-lwp-smsbharti-api.php:89
+#: gateways/class-lwp-taqnyat-api.php:83 gateways/class-lwp-twilio-api.php:90
+#: gateways/class-lwp-twilio-api.php:152 gateways/class-lwp-zenziva-api.php:84
+msgid "Invalid API key"
+msgstr "کلید api نامعتبر می باشد"
+
+#: gateways/class-lwp-twilio-api.php:226
+msgid "Phone number already verified"
+msgstr "این شماره موبایل در حال حاضر احراز هویت نشده است"
+
+#: gateways/class-lwp-infobip-api.php:91 gateways/class-lwp-mshastra-api.php:87
+#: gateways/class-lwp-raygansms-api.php:94
+#: gateways/class-lwp-smsbharti-api.php:95
+#: gateways/class-lwp-taqnyat-api.php:89 gateways/class-lwp-twilio-api.php:96
+#: gateways/class-lwp-twilio-api.php:158 gateways/class-lwp-twilio-api.php:229
+#: gateways/class-lwp-zenziva-api.php:90
+msgid "Api error"
+msgstr "خطا در api"
+
+#: login-with-phonenumber.php:1813
+msgid "I want to set phone number as username and nickname"
+msgstr "من میخواهم  نام کاربری و لقب، شماره موبایل فرد باشد"
+
+#: login-with-phonenumber.php:266
+msgid "use phone number for username"
+msgstr "از شماره موبایل بجای نام کاربری کاربر استفاده کن"
+
+#: login-with-phonenumber.php:211
+msgid "sms default gateway"
+msgstr "درگاه اس ام اس پیش فرض افزونه"
+
+#: login-with-phonenumber.php:210
+msgid "use custom sms gateway"
+msgstr "استفاده از درگاه اس ام اس سفارشی"
+
+#: login-with-phonenumber.php:201
+msgid "Enter your website url"
+msgstr "آدرس وب سایت خود را وارد کنید"
+
+#: login-with-phonenumber.php:268 login-with-phonenumber.php:2066
+msgid "Default nickname"
+msgstr "لقب پیش فرض"
+
+#: login-with-phonenumber.php:267 login-with-phonenumber.php:2054
+msgid "Default username"
+msgstr "نام کاربری پیش فرض"
+
+#: login-with-phonenumber.php:3264
+msgid "Activation code"
+msgstr "کد فعال‌سازی"
+
+#: login-with-phonenumber.php:3116
+msgid "Wrong username or password."
+msgstr "نام کاربری یا گذرواژه اشتباه است."
+
+#: login-with-phonenumber.php:3091
+msgid "user does not exist!"
+msgstr "کاربر وجود ندارد."
+
+#: login-with-phonenumber.php:3029 login-with-phonenumber.php:3080
+msgid "entered code is wrong!"
+msgstr "کد وارد شده اشتباه است!"
+
+#: login-with-phonenumber.php:3047 login-with-phonenumber.php:3070
+msgid "wrong"
+msgstr "خطا"
+
+#: login-with-phonenumber.php:3044 login-with-phonenumber.php:3067
+msgid "loading..."
+msgstr "در حال بارگذاری..."
+
+#: login-with-phonenumber.php:2893
+msgid "your activation code: "
+msgstr "کد فعال سازی:"
+
+#: login-with-phonenumber.php:2846
+msgid "email is wrong!"
+msgstr "ایمیل اشتباه است!"
+
+#: login-with-phonenumber.php:2838
+msgid "Email sent successfully!"
+msgstr "ایمیل با موفقیت ارسال شد!"
+
+#: login-with-phonenumber.php:2754
+msgid "User not found"
+msgstr "کاربر یافت نشد"
+
+#: login-with-phonenumber.php:2746
+msgid "Password set successfully! redirecting..."
+msgstr "رمز عبور با موفقیت بروز شد! در حال انتقال..."
+
+#: login-with-phonenumber.php:2725
+msgid "Redirecting..."
+msgstr "در حال انتقال..."
+
+#: login-with-phonenumber.php:2717
+msgid "Password is incorrect!"
+msgstr "رمز عبور اشتباه است!"
+
+#: login-with-phonenumber.php:2608
+msgid "Sms sent successfully!"
+msgstr "پیامک با موفقیت ارسال شد!"
+
+#: login-with-phonenumber.php:2564 login-with-phonenumber.php:2800
+msgid "This email address is already registered."
+msgstr "این ایمیل از قبل ثبت نام کرده است."
+
+#: login-with-phonenumber.php:2557
+msgid "This username is already registered."
+msgstr "این نام کاربری از قبل ثبت نام شده است."
+
+#: login-with-phonenumber.php:2500 login-with-phonenumber.php:2617
+#: login-with-phonenumber.php:3003 login-with-phonenumber.php:3014
+msgid "phone number is wrong!"
+msgstr "شماره موبایل اشتباه است!"
+
+#: login-with-phonenumber.php:2434
+msgid "Forgot password"
+msgstr "فراموشی رمز عبور"
+
+#: login-with-phonenumber.php:2431
+msgid "Login"
+msgstr "ورود"
+
+#: login-with-phonenumber.php:2428
+msgid "Please enter your password"
+msgstr "لطفا رمز عبور خود را وارد کنید"
+
+#: login-with-phonenumber.php:2426
+msgid "Your password:"
+msgstr "رمز عبور شما:"
+
+#: login-with-phonenumber.php:2422
+msgid "Enter password"
+msgstr "رمز عبور را وارد کنید"
+
+#: login-with-phonenumber.php:2416
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: login-with-phonenumber.php:2413
+msgid "Please choose a password"
+msgstr "لطفاً یک کلمه عبور  وارد کنید"
+
+#: login-with-phonenumber.php:2411
+msgid "Enter new password:"
+msgstr "رمز عبود جدید خود را وارد نمایید"
+
+#: login-with-phonenumber.php:2407 login-with-phonenumber.php:2685
+msgid "Update password"
+msgstr "به‌روزرسانی رمز عبور"
+
+#: login-with-phonenumber.php:2378
+msgid "Security code"
+msgstr "کد امنیتی"
+
+#: login-with-phonenumber.php:2369
+msgid "Activation"
+msgstr "فعال‌سازی"
+
+#: login-with-phonenumber.php:2346
+msgid "Please enter your email"
+msgstr "لطفاً ایمیل خود را وارد کنید"
+
+#: login-with-phonenumber.php:2344
+msgid "Your email:"
+msgstr "ایمیل شما:"
+
+#: login-with-phonenumber.php:2325
+msgid "Login with email"
+msgstr "ورود با ایمیل"
+
+#: login-with-phonenumber.php:2319 login-with-phonenumber.php:2355
+msgid "Submit"
+msgstr "ثبت"
+
+#: login-with-phonenumber.php:1447 login-with-phonenumber.php:2308
+msgid "9*********"
+msgstr "9*********"
+
+#: login-with-phonenumber.php:2292 login-with-phonenumber.php:3263
+msgid "Phone number"
+msgstr "شماره موبایل"
+
+#: login-with-phonenumber.php:1426 login-with-phonenumber.php:1437
+#: login-with-phonenumber.php:2287 login-with-phonenumber.php:2340
+msgid "Login / register"
+msgstr "ورود / ثبت نام"
+
+#: login-with-phonenumber.php:2275
+msgid "login"
+msgstr "ورود"
+
+#: login-with-phonenumber.php:2180
+msgid "please wait..."
+msgstr "لطفا صبر کنید..."
+
+#: login-with-phonenumber.php:2089
+msgid "Refresh"
+msgstr "بروزرسانی فروشگاه"
+
+#: login-with-phonenumber.php:2085
+msgid "Check credit"
+msgstr "بروزرسانی اعتبار"
+
+#: login-with-phonenumber.php:2022
+msgid "Need more help?"
+msgstr "کمک بیشتری نیاز دارید؟"
+
+#: login-with-phonenumber.php:2018
+msgid "make a page and name it login, put the shortcode inside it, now you have a login page!"
+msgstr "کد کوتاه رو کپی کنید، یک برگه بسازید و برای مثال عنوان رو بزارید ورود و کد کوتاه رو در اون پیست کنید"
+
+#: login-with-phonenumber.php:1986
+msgid "enter redirect url"
+msgstr "لینک هدایت را وارد کنید"
+
+#: login-with-phonenumber.php:1959
+msgid "enter api key"
+msgstr "کلید api را وارد کنید"
+
+#: login-with-phonenumber.php:1927
+msgid "activate account"
+msgstr "فعال سازی حساب"
+
+#: login-with-phonenumber.php:1927 login-with-phonenumber.php:2382
+msgid "Activate"
+msgstr "فعالسازی"
+
+#: login-with-phonenumber.php:1925 login-with-phonenumber.php:1944
+msgid "activate sms login"
+msgstr "فعال سازی ورود با اس ام اس"
+
+#: login-with-phonenumber.php:1925 login-with-phonenumber.php:1944
+msgid "Authenticate"
+msgstr "احراز هویت"
+
+#: login-with-phonenumber.php:1908
+msgid "Choose a country..."
+msgstr "کشور را انتخاب کنید..."
+
+#: login-with-phonenumber.php:1494
+msgid "I want form shows on page in fix position"
+msgstr "من میخواهم استایل ثابت نشان داده شود"
+
+#: login-with-phonenumber.php:1484
+msgid "I want user login with password too"
+msgstr "من میخواهم کاربر با رمز عبور بتواند وارد شود"
+
+#: login-with-phonenumber.php:1460
+msgid "I want user login with phone number"
+msgstr "من میخواهم کاربر با شماره موبایل وارد شود"
+
+#: login-with-phonenumber.php:1191
+msgid "I want user login with email"
+msgstr "من میخواهم کاربر با ایمیل وارد شود"
+
+#: login-with-phonenumber.php:1010
+msgid "got it "
+msgstr "فهمیدم"
+
+#: login-with-phonenumber.php:1005
+msgid "for more information visit: "
+msgstr "برای اطلاعات بیشتر مراجعه کنید:"
+
+#: login-with-phonenumber.php:1002
+msgid "3. now, that is your login page. check your login page with other device or browser that you are not logged in!"
+msgstr "۳. خب، بسلامتی صفحه ورودتون رو ساختین و حالا میتونید اون رو چک کنید"
+
+#: login-with-phonenumber.php:1001
+msgid "2. copy this shortcode <code>[idehweb_lwp]</code> and paste in the page you created at step 1"
+msgstr "۲. کد کوتاه <code>[idehweb_lwp]</code> رو کپی کنید و در برگه ای که ساختید paste کنید"
+
+#: login-with-phonenumber.php:1000
+msgid "1. create a page and name it login or register or what ever"
+msgstr "۱. یک صفحه بسازید و برای مثال عنوان صفحه رو \"ورود\" یا \"ثبت نام\" یا... قرار بدید. "
+
+#: login-with-phonenumber.php:816
+msgid "Buy"
+msgstr "خرید"
+
+#: login-with-phonenumber.php:787
+msgid "Your Credit:"
+msgstr "اعتبار شما:"
+
+#: login-with-phonenumber.php:363 login-with-phonenumber.php:1109
+#: login-with-phonenumber.php:1150
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: login-with-phonenumber.php:338 login-with-phonenumber.php:1093
+#: login-with-phonenumber.php:1134
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: login-with-phonenumber.php:333
+msgid "idehwebLwp Settings"
+msgstr "تنظیمات ورود"
+
+#: login-with-phonenumber.php:295 login-with-phonenumber.php:296
+msgid "login setting"
+msgstr "تنظیمات ورود"
+
+#: login-with-phonenumber.php:276
+msgid "Shortcode and Template Tag"
+msgstr "کد کوتاه یا کد پوسته"
+
+#: login-with-phonenumber.php:176
+msgid "Enable fix position"
+msgstr "فعال سازی استایل ثابت"
+
+#: login-with-phonenumber.php:265
+msgid "Enter redirect url"
+msgstr "لینک هدایت را وارد کنید"
+
+#: login-with-phonenumber.php:264
+msgid "Enable password login"
+msgstr "فعال سازی ورود با رمز"
+
+#: login-with-phonenumber.php:260
+msgid "Enable email login"
+msgstr "فعال سازی ورود با ایمیل"
+
+#: login-with-phonenumber.php:208
+msgid "Buy credit here"
+msgstr "اعتبار بخرید"
+
+#: login-with-phonenumber.php:204
+msgid "Country code accepted in front"
+msgstr "کد های نقشه در ظاهر درست شد"
+
+#: login-with-phonenumber.php:203
+msgid "Enter api key"
+msgstr "ورود کلید api"
+
+#: login-with-phonenumber.php:193
+msgid "Enable phone number login"
+msgstr "فعال سازی ورود با شماره موبایل"
+
+#. Author URI of the plugin
+msgid "http://idehweb.com"
+msgstr "https://idehweb.com"
+
+#. Author of the plugin
+msgid "Hamid Alinia - idehweb"
+msgstr "حمید علی نیا - ایده وب - idehweb.com"
+
+#. Description of the plugin
+msgid "Login with phone number - sending sms - activate user by phone number - limit pages to login - register and login with ajax - modal"
+msgstr "با شماره تلفن وارد شوید / ثبت نام کنید - با ایمیل وارد شوید / ثبت نام کنید - فرم ثبت نام woocommerce با شماره موبایل - ورود و ثبت نام با otp در وردپرس - استفاده ساده - پشتیبانی از ارسال پیام کوتاه بین المللی - کاربر را با شماره تلفن احراز هویت کنید - صفحات را برای ورود محدود کنید - ajax - modal"
+
+#. Plugin URI of the plugin
+msgid "http://idehweb.com/login-with-phone-number"
+msgstr "پشتیبانی در http://idehweb.com/login-with-phone-number"
+
+#. Plugin Name of the plugin
+#: login-with-phonenumber.php:2361
+msgid "Login with phone number"
+msgstr "ورود با شماره موبایل"
+
+#: login-with-phonenumber.php:83
+msgid "phone_number"
+msgstr "شماره موبایل"

@@ -1,0 +1,120 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MIMO WP logo changer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-21 10:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: mimo-logo-changer"
+
+#: templates/main-page-html.php:8
+msgid "About Us"
+msgstr ""
+
+#: templates/setting-page-html.php:23
+msgid "Choose or Upload Photo"
+msgstr ""
+
+#: templates/setting-page-html.php:186
+msgid "Height"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://rihanet.com/wordpress-logo-changer"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rihanet.com"
+msgstr ""
+
+#: templates/setting-page-html.php:179
+msgid "Login Page Current Status"
+msgstr ""
+
+#: templates/setting-page-html.php:20
+msgid "Logo"
+msgstr ""
+
+#: templates/main-page-html.php:2
+msgid "Logo Changer - Main Page"
+msgstr ""
+
+#: templates/setting-page-html.php:2
+msgid "Logo Changer - Setting"
+msgstr ""
+
+#: templates/setting-page-html.php:109
+msgid "Logo Height"
+msgstr ""
+
+#: templates/setting-page-html.php:119
+msgid "Logo Link"
+msgstr ""
+
+#: templates/setting-page-html.php:128
+msgid "Logo Title"
+msgstr ""
+
+#: templates/setting-page-html.php:105
+msgid "Logo Width"
+msgstr ""
+
+#: templates/setting-page-html.php:137
+msgid "Message shows in login page"
+msgstr ""
+
+#: templates/setting-page-html.php:184
+msgid "Real Logo Size"
+msgstr ""
+
+#: templates/setting-page-html.php:163
+msgid "Remove Wordpress Icon in navbar?(Need Refresh)"
+msgstr ""
+
+#: templates/setting-page-html.php:5
+msgid "Return to default settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rihanet"
+msgstr ""
+
+#: templates/setting-page-html.php:57
+msgid "Select a image to upload"
+msgstr ""
+
+#: templates/setting-page-html.php:15
+msgid "Setting"
+msgstr ""
+
+#: templates/main-page-html.php:11
+msgid ""
+"This plugin is developed by <a href=\"https://rihanet.com\" "
+"target=\"_blank\">Rihanet</a>."
+msgstr ""
+
+#: templates/setting-page-html.php:59
+msgid "Use this image"
+msgstr ""
+
+#: templates/setting-page-html.php:185
+msgid "Width"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"with this plugin you can change wordpress login page logo and (logo link)"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wordpress Logo Changer"
+msgstr ""

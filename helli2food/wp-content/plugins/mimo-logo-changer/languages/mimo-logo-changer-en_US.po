@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MIMO WP logo changer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-21 09:51+0000\n"
+"PO-Revision-Date: 2021-12-21 10:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: mimo-logo-changer"
+
+#: templates/main-page-html.php:8
+msgid "About Us"
+msgstr "About Us"
+
+#: templates/setting-page-html.php:23
+msgid "Choose or Upload Photo"
+msgstr "Choose or Upload Photo"
+
+#: templates/setting-page-html.php:186
+msgid "Height"
+msgstr "Height"
+
+#. URI of the plugin
+msgid "http://rihanet.com/wordpress-logo-changer"
+msgstr "http://rihanet.com/wordpress-logo-changer"
+
+#. Author URI of the plugin
+#| msgid "https://rihanet.ir"
+msgid "https://rihanet.com"
+msgstr "https://rihanet.com"
+
+#: templates/setting-page-html.php:179
+msgid "Login Page Current Status"
+msgstr "Login Page Current Status"
+
+#: templates/setting-page-html.php:20
+msgid "Logo"
+msgstr "Logo"
+
+#: templates/main-page-html.php:2
+msgid "Logo Changer - Main Page"
+msgstr "Logo Changer - Main Page"
+
+#: templates/setting-page-html.php:2
+msgid "Logo Changer - Setting"
+msgstr "Logo Changer - Setting"
+
+#: templates/setting-page-html.php:109
+msgid "Logo Height"
+msgstr "Logo Height"
+
+#: templates/setting-page-html.php:119
+msgid "Logo Link"
+msgstr "Logo Link"
+
+#: templates/setting-page-html.php:128
+msgid "Logo Title"
+msgstr "Logo Title"
+
+#: templates/setting-page-html.php:105
+msgid "Logo Width"
+msgstr "Logo Width"
+
+#: templates/setting-page-html.php:137
+msgid "Message shows in login page"
+msgstr "Message shows in login page"
+
+#: templates/setting-page-html.php:184
+msgid "Real Logo Size"
+msgstr "Real Logo Size"
+
+#: templates/setting-page-html.php:163
+msgid "Remove Wordpress Icon in navbar?(Need Refresh)"
+msgstr "Remove Wordpress Icon in navbar?(Need Refresh)"
+
+#: templates/setting-page-html.php:5
+msgid "Return to default settings"
+msgstr "Return to default settings"
+
+#. Author of the plugin
+msgid "Rihanet"
+msgstr "Rihanet"
+
+#: templates/setting-page-html.php:57
+msgid "Select a image to upload"
+msgstr "Select a image to upload"
+
+#: templates/setting-page-html.php:15
+msgid "Setting"
+msgstr "Setting"
+
+#: templates/main-page-html.php:11
+msgid ""
+"This plugin is developed by <a href=\"https://rihanet.com\" "
+"target=\"_blank\">Rihanet</a>."
+msgstr ""
+"This plugin is developed by <a href=\"https://rihanet.com\" "
+"target=\"_blank\">Rihanet</a>."
+
+#: templates/setting-page-html.php:59
+msgid "Use this image"
+msgstr "Use this image"
+
+#: templates/setting-page-html.php:185
+msgid "Width"
+msgstr "Width"
+
+#. Description of the plugin
+msgid ""
+"with this plugin you can change wordpress login page logo and (logo link)"
+msgstr ""
+"with this plugin you can change wordpress login page logo and (logo link)"
+
+#. Name of the plugin
+msgid "Wordpress Logo Changer"
+msgstr "Wordpress Logo Changer"
